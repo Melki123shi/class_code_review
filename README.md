@@ -1,1 +1,1 @@
-person class to say happybirth bay
+person class to say happybirth day
